@@ -63,7 +63,7 @@ hr {
 }
 
 /* responsive features for display sizes */
-@media  (max-width: 991px) {
+@media  (max-width: 1024px) {
 	img {
 		margin: 0 auto;
 	}

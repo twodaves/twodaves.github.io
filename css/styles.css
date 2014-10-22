@@ -3,10 +3,7 @@ body {
 	font-family: 'Titillium Web', sans-serif;
 	color: #82007D;
 	font-weight: 300;
-}
-
-*{
-    background-color: #C8C8C8; 
+	background-color: #C8C8C8;
 }
 
 .text-muted {
@@ -48,18 +45,25 @@ hr {
 	border: 0;
 	height: .3em;
 }
+/* modal features placed here */
+.modal-backdrop {
+  background-color: #00599f;
+} 
 
+.modal-back {
+	background-color: #4B4B4B;
+}
 .modal-header {
-	color: #82007D;
+	color: #FFFFFF;
 }
 
 .modal-content {
-	color: #82007D;
+	color: #FFFFFF;
 	margin: 40px;
 }
 
 .modal-footer {
-	color: #82007D;
+	color: #FFFFFF;
 }
 
 /* responsive features for display sizes */

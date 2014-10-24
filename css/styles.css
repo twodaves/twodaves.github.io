@@ -40,10 +40,17 @@ body {
 	max-height:100%;
 }
 
+
 hr {
 	background: #067AB4;
 	border: 0;
-	height: .3em;
+	height: .2em;
+}
+
+footer {
+	background: #067AB4;
+	border: 0;
+	height: .1em;
 }
 /* modal features placed here */
 .modal-backdrop {
@@ -57,13 +64,18 @@ hr {
 	color: #FFFFFF;
 }
 
+.modal-body {
+	margin: 0 auto;
+}
+
 .modal-content {
 	color: #FFFFFF;
-	margin: 40px;
+	margin: 0 auto;
 }
 
 .modal-footer {
 	color: #FFFFFF;
+	margin: 0 auto;
 }
 
 /* responsive features for display sizes */

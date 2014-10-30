@@ -3,7 +3,7 @@ body {
 	font-family: 'Titillium Web', sans-serif;
 	color: #82007D;
 	font-weight: 300;
-	background-color: #C8C8C8;
+	background-color: #A0A0A0;
 }
 
 .text-muted {
@@ -50,8 +50,9 @@ hr {
 footer {
 	background: #067AB4;
 	border: 0;
-	height: .1em;
+	height: .1em; 
 }
+
 /* modal features placed here */
 .modal-backdrop {
   background-color: #00599f;
